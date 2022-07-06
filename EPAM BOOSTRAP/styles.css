@@ -1,0 +1,18 @@
+.navbar {
+  background: rgb(33, 32, 32);
+}
+#navmenu ul {
+  font-family: "Libre Baskerville", serif;
+}
+.navbar-brand img {
+  height: 3rem;
+}
+.header-video {
+  position: relative;
+}
+.header-video video {
+  width: 100%;
+  height: 30rem;
+  object-fit: cover;
+  background-position: center;
+}
